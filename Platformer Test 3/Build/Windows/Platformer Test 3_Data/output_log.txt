@@ -1,0 +1,37 @@
+Initialize engine version: 5.1.1f1 (2046fc06d4d8)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 820M      (ID=0x1140)
+    Vendor:   NVIDIA
+    VRAM:     1994 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Leda Entertainment\Unity5\Tests\Platformer Test 3\Platformer Test 3\Build\Windows\Platformer Test 3_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Leda Entertainment\Unity5\Tests\Platformer Test 3\Platformer Test 3\Build\Windows\Platformer Test 3_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Leda Entertainment\Unity5\Tests\Platformer Test 3\Platformer Test 3\Build\Windows\Platformer Test 3_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Leda Entertainment\Unity5\Tests\Platformer Test 3\Platformer Test 3\Build\Windows\Platformer Test 3_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Leda Entertainment\Unity5\Tests\Platformer Test 3\Platformer Test 3\Build\Windows\Platformer Test 3_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Leda Entertainment\Unity5\Tests\Platformer Test 3\Platformer Test 3\Build\Windows\Platformer Test 3_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Leda Entertainment\Unity5\Tests\Platformer Test 3\Platformer Test 3\Build\Windows\Platformer Test 3_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Leda Entertainment\Unity5\Tests\Platformer Test 3\Platformer Test 3\Build\Windows\Platformer Test 3_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Leda Entertainment\Unity5\Tests\Platformer Test 3\Platformer Test 3\Build\Windows\Platformer Test 3_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Leda Entertainment\Unity5\Tests\Platformer Test 3\Platformer Test 3\Build\Windows\Platformer Test 3_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.073 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\Leda Entertainment\Unity5\Tests\Platformer Test 3\Platformer Test 3\Build\Windows\Platformer Test 3_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Leda Entertainment\Unity5\Tests\Platformer Test 3\Platformer Test 3\Build\Windows\Platformer Test 3_Data\Managed\System.dll (this message is harmless)
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.433924 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 450.
+Total: 0.577760 ms (FindLiveObjects: 0.065858 ms CreateObjectMapping: 0.056450 ms MarkObjects: 0.428509 ms  DeleteObjects: 0.025231 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.787166 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 479.
+Total: 0.771060 ms (FindLiveObjects: 0.077405 ms CreateObjectMapping: 0.052173 ms MarkObjects: 0.626513 ms  DeleteObjects: 0.013257 ms)
+

@@ -1,0 +1,16 @@
+C:\Leda Entertainment\Unity5\Tests\Platformer Test 3\Platformer Test 3\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+C:\Leda Entertainment\Unity5\Tests\Platformer Test 3\Platformer Test 3\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+C:\Leda Entertainment\Unity5\Tests\Platformer Test 3\Platformer Test 3\Temp\UnityVS_bin\Debug\UnityEditor.dll
+C:\Leda Entertainment\Unity5\Tests\Platformer Test 3\Platformer Test 3\Temp\UnityVS_bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+C:\Leda Entertainment\Unity5\Tests\Platformer Test 3\Platformer Test 3\Temp\UnityVS_bin\Debug\UnityEngine.Analytics.dll
+C:\Leda Entertainment\Unity5\Tests\Platformer Test 3\Platformer Test 3\Temp\UnityVS_bin\Debug\UnityEngine.dll
+C:\Leda Entertainment\Unity5\Tests\Platformer Test 3\Platformer Test 3\Temp\UnityVS_bin\Debug\UnityEngine.Networking.dll
+C:\Leda Entertainment\Unity5\Tests\Platformer Test 3\Platformer Test 3\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll
+C:\Leda Entertainment\Unity5\Tests\Platformer Test 3\Platformer Test 3\Temp\UnityVS_bin\Debug\UnityEngine.xml
+C:\Leda Entertainment\Unity5\Tests\Platformer Test 3\Platformer Test 3\Temp\UnityVS_bin\Debug\UnityEngine.UI.xml
+C:\Leda Entertainment\Unity5\Tests\Platformer Test 3\Platformer Test 3\Temp\UnityVS_bin\Debug\UnityEngine.Networking.xml
+C:\Leda Entertainment\Unity5\Tests\Platformer Test 3\Platformer Test 3\Temp\UnityVS_bin\Debug\UnityEngine.Analytics.xml
+C:\Leda Entertainment\Unity5\Tests\Platformer Test 3\Platformer Test 3\Temp\UnityVS_bin\Debug\UnityEditor.iOS.Extensions.Xcode.xml
+C:\Leda Entertainment\Unity5\Tests\Platformer Test 3\Platformer Test 3\obj\Debug\UnityVS.Platformer Test 3.CSharp.csprojResolveAssemblyReference.cache
+C:\Leda Entertainment\Unity5\Tests\Platformer Test 3\Platformer Test 3\obj\Debug\Assembly-CSharp.dll
+C:\Leda Entertainment\Unity5\Tests\Platformer Test 3\Platformer Test 3\obj\Debug\Assembly-CSharp.pdb
